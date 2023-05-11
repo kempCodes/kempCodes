@@ -1,4 +1,5 @@
-### Hi there 👋
+Currently on track to receive a degree in Web-Development and Cloud-Applications. Or maybe it's Web-Applications and Cloud-Develpment?
+Either way, absolutely loving the process!
 
 <!--
 **kempCodes/kempCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
